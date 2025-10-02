@@ -1,0 +1,16 @@
+:root {
+  --primary-color: #1d4ed8; /* Blue */
+  --secondary-color: #fbbf24; /* Yellow */
+  --background-color: #f9fafb; /* Light Gray */
+  --text-color: #111827; /* Dark Gray */
+  --border-radius: 0.5rem; /* Rounded corners */
+  --font-family: 'Inter', sans-serif; /* Font family */
+  --font-size-base: 1rem; /* Base font size */
+  --font-size-lg: 1.25rem; /* Large font size */
+  --font-size-sm: 0.875rem; /* Small font size */
+  --spacing-xs: 0.25rem; /* Extra small spacing */
+  --spacing-sm: 0.5rem; /* Small spacing */
+  --spacing-md: 1rem; /* Medium spacing */
+  --spacing-lg: 1.5rem; /* Large spacing */
+  --spacing-xl: 2rem; /* Extra large spacing */
+}
