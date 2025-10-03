@@ -1,6 +1,6 @@
-# SaaS Starter Kit
+# SaaSify
 
-Welcome to the SaaS Starter Kit built with Next.js 14+, TypeScript, and a modern tech stack. This project provides a solid foundation for building scalable and maintainable SaaS applications.
+Welcome to the SaaSify built with Next.js 14+, TypeScript, and a modern tech stack. This project provides a solid foundation for building scalable and maintainable SaaS applications.
 
 ## Features
 
